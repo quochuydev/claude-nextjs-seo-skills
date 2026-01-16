@@ -1,0 +1,14 @@
+{
+  "name": "claude-nextjs-seo-skills",
+  "description": "SEO skills for Next.js App Router projects",
+  "owner": {
+    "name": "quochuydev"
+  },
+  "plugins": [
+    {
+      "name": "nextjs-seo",
+      "source": "./plugins/nextjs-seo",
+      "description": "SEO skills for Next.js App Router projects"
+    }
+  ]
+}
